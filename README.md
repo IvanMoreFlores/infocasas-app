@@ -1,12 +1,12 @@
 ### Features
 Requirements:
-● Must use ReactNative
-● You could choose between using js or ts
-● Must persist data in device (“localStore” or some type of local db)
-● Must be able to create, update and delete and list task
-● Must be able to filter by completion (see all, see only completed)
-● Must be able to search tasks by name
-● You can choose to use any library you want, but take in consideration that we will take your
+*  Must use ReactNative
+*  You could choose between using js or ts
+*  Must persist data in device (“localStore” or some type of local db)
+*  Must be able to create, update and delete and list task
+*  Must be able to filter by completion (see all, see only completed)
+*  Must be able to search tasks by name
+*  You can choose to use any library you want, but take in consideration that we will take your
 library picking choices into consideration in your evaluation.
 
 # Installation
